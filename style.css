@@ -1,0 +1,21 @@
+body {
+background-image: url("home.jpg");
+background-position: center center;
+background-size: cover;
+height: 100vh
+}
+
+h1 {
+    color: white;
+    font-family: roboto;
+    font-size: 55px;
+}
+
+h2 {
+    color: white; 
+    font-family: roboto;
+    font size: 40px
+}
+background-color: cornflowerblue;
+
+
